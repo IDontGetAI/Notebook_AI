@@ -1,0 +1,19 @@
+{
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Attachment",
+  "promptDelete": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-AU",
+    "en-GB",
+    "en-CA",
+    "en-US"
+  ],
+  "attachmentFolderPath": "Attachment",
+  "newLinkFormat": "relative"
+}
