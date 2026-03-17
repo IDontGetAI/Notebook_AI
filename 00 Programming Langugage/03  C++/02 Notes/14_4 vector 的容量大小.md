@@ -13,7 +13,7 @@ status: unfinished
 created: 2026-03-17
 updated: 2026-03-17
 parent_moc: "[[C++ 程序设计 MOC]]"
-chapter_note: "[[第 14 章 模板、Vector 与异常处理]]"
+chapter_note: "[[14_第 14 章 模板、Vector 与异常处理]]"
 prerequisites: []
 related: []
 review_level: 0
@@ -23,7 +23,7 @@ review_level: 0
 
 ## 所属导航
 - 总目录：[[C++ 程序设计 MOC]]
-- 章节：[[第 14 章 模板、Vector 与异常处理]]
+- 章节：[[14_第 14 章 模板、Vector 与异常处理]]
 
 ## 前置知识
 -

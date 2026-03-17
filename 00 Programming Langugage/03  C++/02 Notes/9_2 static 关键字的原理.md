@@ -13,7 +13,7 @@ status: unfinished
 created: 2026-03-17
 updated: 2026-03-17
 parent_moc: "[[C++ 程序设计 MOC]]"
-chapter_note: "[[第 9 章 高级关键字]]"
+chapter_note: "[[9_第 9 章 const、static、friend 与对象大小]]"
 prerequisites: []
 related: []
 review_level: 0
@@ -23,7 +23,7 @@ review_level: 0
 
 ## 所属导航
 - 总目录：[[C++ 程序设计 MOC]]
-- 章节：[[第 9 章 高级关键字]]
+- 章节：[[9_第 9 章 const、static、friend 与对象大小]]
 
 ## 前置知识
 -
