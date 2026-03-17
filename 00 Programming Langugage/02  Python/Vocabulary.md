@@ -72,16 +72,16 @@
 |          matter          |      |     重要     |          |
 |       punctuation        |      |    小错误    |          |
 |         get away         |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
+|        whimsical         |      |    古怪的    |          |
+|         process          |      |              |          |
+|        inability         |      |     无法     |          |
+|       big picture        |      |     全局     |          |
+|    take advantage of     |      |     利用     |          |
+|         mitigate         |      |     弥补     |          |
+|       engage with        |      |              |          |
+|        interfere         |      |     影响     |          |
+|        end-to-end        |      |   端到端的   |          |
+|         category         |      |     分类     |          |
 |                          |      |              |          |
 |                          |      |              |          |
 |                          |      |              |          |
