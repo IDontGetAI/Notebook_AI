@@ -2,11 +2,109 @@
 
 ## 词汇表
 
-| 词汇/短语 | 词性  | 中文释义 | 英文释义 |
-| ----- | --- | ---- | ---- |
-|       |     |      |      |
-|       |     |      |      |
-|       |     |      |      |
+|        词汇/短语         | 词性 |   中文释义   | 英文释义 |
+| :----------------------: | :--: | :----------: | :------: |
+|          denote          |      |     表示     |          |
+|        hypotheses        |      |     假设     |          |
+|        prediction        |      |     预测     |          |
+|     work our way up      |      |   逐步深入   |          |
+|   arithmetic operation   |      |  算术运算符  |          |
+|        represent         |      |     表示     |          |
+|         perform          |      |     执行     |          |
+|        plus sign         |      |     加号     |          |
+|         addition         |      |     加法     |          |
+|        minus sign        |      |     减号     |          |
+|       subtraction        |      |     减法     |          |
+|         asterisk         |      |     星号     |          |
+|      multiplication      |      |     乘法     |          |
+|      forward slash       |      |    正斜杠    |          |
+|         division         |      |     除法     |          |
+|         integer          |      |     整数     |          |
+|        fractional        |      |    分数的    |          |
+|         decimal          |      | 小数（点）的 |          |
+|      floor division      |      | 向下取整除法 |          |
+|      exponentiation      |      |    幂运算    |          |
+|          caret           |      |     尖号     |          |
+|         bitwise          |      |     按位     |          |
+|           XOR            |      |     异或     |          |
+|       parentheses        |      |     括号     |          |
+|      rounds it off       |      |     舍入     |          |
+|     positive number      |      |     正数     |          |
+|     negative number      |      |     负数     |          |
+|      function call       |      |   函数调用   |          |
+|       leave sb out       |      |     省略     |          |
+|         beneath          |      |     下方     |          |
+|         indicate         |      |  指示，表明  |          |
+|       syntax error       |      |   语法错误   |          |
+|        additional        |      |    附加的    |          |
+|      in addition to      |      |     除了     |          |
+|           bead           |      |     珠子     |          |
+|         necklace         |      |     项链     |          |
+| straight quotation marks |      | 直（单）引号 |          |
+|  double quotation marks  |      |    双引号    |          |
+|        apostrophe        |      |     撇号     |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
+|                          |      |              |          |
 
 ---
 
