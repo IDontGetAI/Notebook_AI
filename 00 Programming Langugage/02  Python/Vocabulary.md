@@ -226,10 +226,10 @@
 | indentation |     |  缩进  |      |
 |   object    |     |  对象  |      |
 |    pass     |     |  传递  |      |
-|             |     |      |      |
-|             |     |      |      |
-|             |     |      |      |
-|             |     |      |      |
+|    base     |     |  基数  |      |
+|  exponent   |     |  指数  |      |
+|    verse    |     |  诗   |      |
+| repetition  |     |      |      |
 |             |     |      |      |
 |             |     |      |      |
 |             |     |      |      |
