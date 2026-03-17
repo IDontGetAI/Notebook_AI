@@ -68,10 +68,10 @@
 |          idiom           |      |     习语     |          |
 |         metaphor         |      |     隐喻     |          |
 |          dense           |      |     密集     |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
-|                          |      |              |          |
+|          adjust          |      |     适应     |          |
+|          matter          |      |     重要     |          |
+|       punctuation        |      |    小错误    |          |
+|         get away         |      |              |          |
 |                          |      |              |          |
 |                          |      |              |          |
 |                          |      |              |          |
