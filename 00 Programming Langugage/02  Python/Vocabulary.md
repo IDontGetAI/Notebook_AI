@@ -230,8 +230,8 @@
 |  exponent   |     |  指数  |      |
 |    verse    |     |  诗   |      |
 | repetition  |     |      |      |
-|             |     |      |      |
-|             |     |      |      |
+|    silly    |     |  滑稽  |      |
+|  argument   |     |  参数  |      |
 |             |     |      |      |
 |             |     |      |      |
 |             |     |      |      |
