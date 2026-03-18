@@ -232,9 +232,9 @@
 | repetition  |     |      |      |
 |    silly    |     |  滑稽  |      |
 |  argument   |     |  参数  |      |
-|             |     |      |      |
-|             |     |      |      |
-|             |     |      |      |
+| repetitive  |     | 重复的  |      |
+| divide into |     |  划分  |      |
+|   come up   |     |  提出  |      |
 |             |     |      |      |
 |             |     |      |      |
 |             |     |      |      |
