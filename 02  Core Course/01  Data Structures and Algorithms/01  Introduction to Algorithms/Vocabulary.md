@@ -2,109 +2,109 @@
 
 # Preface
 
-|      词汇/短语      |  词性   |       中文释义        |                                             英文释义                                             |
-| :-------------: | :---: | :---------------: | :------------------------------------------------------------------------------------------: |
-| Not so long ago |       |        不久前        |                                                                                              |
-|    prevalent    |       |                   |                                                                                              |
-|    esoteric     |       |       难领略的        |                                                                                              |
-|     mundane     |       |        平凡的        |                                                                                              |
-|      oven       |       |        烤箱         |                                                                                              |
-|     convict     |       |        定罪         |                                                                                              |
-|     behoov      |       |        理应         |                                                                                              |
-|  practitioner   |       |       从业人员        |                                                                                              |
-|   limitation    |       |        局限性        |                                                                                              |
-|    involved     |       |       复杂难解的       |                           complicated and difficult to understand                            |
-|      rigor      |       |        严谨         |                the fact of being careful and paying great attention to detail                |
-|   pseudocode    |       |        伪代码        |                                                                                              |
-|    criterion    |  n.   | （评判或作决定的）标准，准则，原则 | a standard or principle by which sth is judged, or with the help of which a decision is made |
-|   once again    |       |        再次         |                                                                                              |
-|    spectrum     |  n.   |        范围         |                  a complete or wide range of related qualities, ideas, etc.                  |
-|    versatile    | adj.  |     多用途的；多功能的     |                                  having many different uses                                  |
-|     whereas     | conj. |        尽管         |                            used to compare or contrast two facts                             |
-|     mastery     |  n.   |      精通；熟练掌握      |                 great knowledge about or understanding of a particular thing                 |
-|   substantial   | adj.  |       价值巨大的       |                             large in amount, value or importance                             |
-|    elaborate    |       |       精心制作的       |               very complicated and detailed; carefully prepared and organized                |
-|     warrant     |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
-|                 |       |                   |                                                                                              |
+|      词汇/短语      |  词性   |       中文释义        |                                                  英文释义                                                  |
+| :-------------: | :---: | :---------------: | :----------------------------------------------------------------------------------------------------: |
+| Not so long ago |       |        不久前        |                                                                                                        |
+|    prevalent    |       |                   |                                                                                                        |
+|    esoteric     |       |       难领略的        |                                                                                                        |
+|     mundane     |       |        平凡的        |                                                                                                        |
+|      oven       |       |        烤箱         |                                                                                                        |
+|     convict     |       |        定罪         |                                                                                                        |
+|     behoov      |       |        理应         |                                                                                                        |
+|  practitioner   |       |       从业人员        |                                                                                                        |
+|   limitation    |       |        局限性        |                                                                                                        |
+|    involved     |       |       复杂难解的       |                                complicated and difficult to understand                                 |
+|      rigor      |       |        严谨         |                     the fact of being careful and paying great attention to detail                     |
+|   pseudocode    |       |        伪代码        |                                                                                                        |
+|    criterion    |  n.   | （评判或作决定的）标准，准则，原则 |      a standard or principle by which sth is judged, or with the help of which a decision is made      |
+|   once again    |       |        再次         |                                                                                                        |
+|    spectrum     |  n.   |        范围         |                       a complete or wide range of related qualities, ideas, etc.                       |
+|    versatile    | adj.  |     多用途的；多功能的     |                                       having many different uses                                       |
+|     whereas     | conj. |        尽管         |                                 used to compare or contrast two facts                                  |
+|     mastery     |  n.   |      精通；熟练掌握      |                      great knowledge about or understanding of a particular thing                      |
+|   substantial   | adj.  |       价值巨大的       |                                  large in amount, value or importance                                  |
+|    elaborate    |       |       精心制作的       |                    very complicated and detailed; carefully prepared and organized                     |
+|     warrant     |       |                   |                                                                                                        |
+|     utility     |       |        效用         |                                      the quality of being useful                                       |
+|   succinctly    |       |        简明的        |                                  expressed clearly and in a few words                                  |
+|  idiosyncrasy   |       |        习性         | person's particular way of behaving, thinking, etc., especially when it is unusual; an unusual feature |
+|     obscure     |       |                   |                                                                                                        |
+|   be used to    |       |        习惯于        |                                                                                                        |
+|     myriad      |       |        大量         |                                    an extremely large number of sth                                    |
+|   incorporate   |       |        包括         |                             to include sth so that it forms a part of sth                              |
+|    amenable     |       |     可用某种方式处理的     |                                 that you can treat in a particular way                                 |
+|     palette     |       |        调色板        |                                                                                                        |
+|      spot       |       |        看到         |                           If you spot something or someone, you notice them                            |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
+|                 |       |                   |                                                                                                        |
 
 # Chap 2
 
