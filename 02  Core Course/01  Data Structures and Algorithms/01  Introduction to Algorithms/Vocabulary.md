@@ -37,9 +37,9 @@
 |      spot       |       |        看到         |                           If you spot something or someone, you notice them                            |
 |                 |       |                   |                                                                                                        |
 |                 |       |                   |                                                                                                        |
-|                 |       |                   |                                                                                                        |
-|                 |       |                   |                                                                                                        |
-|                 |       |                   |                                                                                                        |
+|      词汇/短语      |  词性   |       中文释义        |                                                  英文释义                                                  |
+|    involved     | adj.  |       复杂难解的       |                                complicated and difficult to understand                                 |
+|      rigor      |  n.   |        严谨         |                     the fact of being careful and paying great attention to detail                     |
 |                 |       |                   |                                                                                                        |
 |                 |       |                   |                                                                                                        |
 |                 |       |                   |                                                                                                        |
