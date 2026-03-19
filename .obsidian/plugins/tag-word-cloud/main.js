@@ -328,10 +328,14 @@ var require_wordcloud2 = __commonJS({
             clientX = evt.clientX;
             clientY = evt.clientY;
           }
-          var eventX = clientX - rect.left;
+          var eventXvalue = clientX - rect.left;
+          var eventX = eventXvalue < 0 ? 0 : eventXvalue;
           var eventY = clientY - rect.top;
           var x = Math.floor(eventX * (canvas.width / rect.width || 1) / g);
           var y = Math.floor(eventY * (canvas.height / rect.height || 1) / g);
+          if (!infoGrid[x]) {
+            return null;
+          }
           return infoGrid[x][y];
         };
         var wordcloudhover = function wordcloudhover2(evt) {
@@ -1481,6 +1485,7 @@ var DEFAULT_SETTINGS = {
 var TagCloudPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
   constructor(plugin) {
     super(plugin.app, plugin);
+    this.icon = "cloudy";
   }
   display() {
     const { containerEl } = this;
@@ -1488,27 +1493,30 @@ var TagCloudPluginSettingsTab = class extends import_obsidian.PluginSettingTab {
     if (!import_wordcloud.default.isSupported) {
       containerEl.createEl("p", { cls: "cloud-error", text: "Your device is not supported" });
     }
-    containerEl.createEl("h1", { text: "Tag & Word Cloud Settings" });
-    new import_obsidian.Setting(containerEl).setName("Additional Stopwords").setDesc("Don't show any of these words in the word cloud(one per line)").addTextArea((text) => {
-      text.setValue(this.plugin.settings.stopwords).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.stopwords = value;
-        yield this.plugin.saveSettings();
-      }));
-      text.inputEl.setAttr("rows", 8);
+    new import_obsidian.SettingGroup(containerEl).setHeading("Wordcloud").addSetting((setting) => {
+      setting.setName("Additional stopwords").setDesc("Don't show any of these words in the word cloud(one per line)").addTextArea((text) => {
+        text.setValue(this.plugin.settings.stopwords).onChange((value) => __async(this, null, function* () {
+          this.plugin.settings.stopwords = value;
+          yield this.plugin.saveSettings();
+        }));
+        text.inputEl.setAttr("rows", 8);
+      });
+    }).addSetting((setting) => {
+      setting.setDesc("").addButton((button) => {
+        button.setButtonText("Recalculate word distribution").onClick(() => __async(this, null, function* () {
+          yield this.plugin.calculateWordDistribution(true);
+        }));
+      });
     });
-    new import_obsidian.Setting(containerEl).setDesc("").addButton((button) => {
-      button.setButtonText("Recalculate Word Distribution").onClick(() => __async(this, null, function* () {
-        yield this.plugin.calculateWordDistribution(true);
-      }));
-    });
-    new import_obsidian.Setting(containerEl).setName("Tagcloud").setHeading();
-    new import_obsidian.Setting(containerEl).setName("Excluded tags").setDesc("The following tags wil be excluded from all tag clouds (one per line, without the #)").addTextArea((text) => {
-      text.setValue(this.plugin.settings.tags.exclude.join(", "));
-      text.onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.tags.exclude = value.split(", ");
-        yield this.plugin.saveSettings();
-      }));
-      text.inputEl.setAttr("rows", 10);
+    new import_obsidian.SettingGroup(containerEl).setHeading("Tagcloud").addSetting((setting) => {
+      setting.setName("Excluded tags").setDesc("The following tags wil be excluded from all tag clouds (one per line, without the #)").addTextArea((text) => {
+        text.setValue(this.plugin.settings.tags.exclude.join(", "));
+        text.onChange((value) => __async(this, null, function* () {
+          this.plugin.settings.tags.exclude = value.split(", ");
+          yield this.plugin.saveSettings();
+        }));
+        text.inputEl.setAttr("rows", 10);
+      });
     });
   }
 };
@@ -2255,3 +2263,5 @@ var TagCloudPlugin3 = class extends import_obsidian4.Plugin {
  * Copyright 2011 - 2019 Tim Guan-tin Chien and contributors.
  * Released under the MIT license
  */
+
+/* nosourcemap */
